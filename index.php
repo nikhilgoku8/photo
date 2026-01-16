@@ -241,56 +241,48 @@
         <div class="inner_container">
 
             <div class="upper_sec">
-                <div class="left_pane width_60">
-                    <div class="heading">SHOOTS DESIGNED FOR <br>SOCIAL MEDIA PERFORMANCE</div>
-                    <div class="line"></div>
-                </div>
-                <div class="right_pane width_40">
-                    <div class="info_box">
-                        <div class="sub_heading">We create content that fits today’s platforms and today’s audiences.</div>
-                        <ul>
-                            <li>Reel & Short-Form Video Shoots</li>
-                            <li>Static Shoots for Social Media</li>
-                            <li>Product & Marketplace Shoots</li>
-                            <li>Food & Restaurant Photography & Videography</li>
-                            <li>Real Estate Project & Lifestyle Shoots</li>
-                            <li>Professional Editing, Retouching & Reel Transitions</li>
-                        </ul>
-                    </div>
-                </div>
+                <div class="heading">BUILT FOR BRANDS THAT <br>NEED VISIBILITY</div>
             </div>
             <div class="lower_sec">
-                <div class="images_wrapper">
-                    <div class="img_wrapper">
+                <div class="info_boxes_wrapper">
+
+                    <div class="info_box">
                         <div class="img_box">
-                            <img src="images/shoots-designed/1.png">
+                            <img src="images/visibility/1.png">
+                        </div>
+                        <div class="text_box">
+                            <div class="title">REAL ESTATE </div>
+                            <div class="sub_title">Lifestyle visuals, amenities, <br>walkthroughs, <br>branding content</div>
                         </div>
                     </div>
-                    <div class="img_wrapper">
+                    <div class="info_box">
                         <div class="img_box">
-                            <img src="images/shoots-designed/2.png">
+                            <img src="images/visibility/2.png">
+                        </div>
+                        <div class="text_box">
+                            <div class="title">FOOD & RESTAURANTS</div>
+                            <div class="sub_title">Food shots, ambience reels, <br>menu highlights.</div>
                         </div>
                     </div>
-                    <div class="img_wrapper">
+                    <div class="info_box">
                         <div class="img_box">
-                            <img src="images/shoots-designed/3.png">
+                            <img src="images/visibility/3.png">
+                        </div>
+                        <div class="text_box">
+                            <div class="title">BRANDS & PRODUCTS</div>
+                            <div class="sub_title">Clean product shots, lifestyle imagery, <br> catalogue-ready visuals.</div>
                         </div>
                     </div>
-                    <div class="img_wrapper">
+                    <div class="info_box">
                         <div class="img_box">
-                            <img src="images/shoots-designed/4.png">
+                            <img src="images/visibility/4.png">
+                        </div>
+                        <div class="text_box">
+                            <div class="title">DIGITAL-FIRST BUSINESSES</div>
+                            <div class="sub_title">Consistent content for <br>social media brands.</div>
                         </div>
                     </div>
-                    <div class="img_wrapper">
-                        <div class="img_box">
-                            <img src="images/shoots-designed/5.png">
-                        </div>
-                    </div>
-                    <div class="img_wrapper">
-                        <div class="img_box">
-                            <img src="images/shoots-designed/6.png">
-                        </div>
-                    </div>
+
                 </div>
             </div>
 
@@ -298,8 +290,97 @@
     </div>
 </section>
 
+<section class="good_content">
+    <div class="contain_90">
+        <div class="inner_container">
+
+            <div class="left_pane width_50">
+                <div class="heading">BECAUSE GOOD CONTENT <br> NEEDS MORE THAN A CAMERA</div>
+                <div class="line"></div>
+                <div class="sub_heading">
+                    <ul>
+                        <li>Mobile-first planning</li>
+                        <li>Reel-friendly compositions</li>
+                        <li>Platform-specific formats</li>
+                        <li>Cinematic lighting & framing</li>
+                        <li>Premium image touch-ups</li>
+                        <li>Fast, professional delivery</li>
+                        <li>Agency-level thinking</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="right_pane width_50">
+                <div class="img_box">
+                    <img src="images/good-content.png">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- good_content -->
+
+<section class="lot_of_text">
+    <div class="text_box">
+        <div class="text">OUR TEAM EXECUTES <br><span class="orange">PROFESSIONALLY</span></div>
+    </div>
+    <div class="text_box">
+        <div class="text">WE <span class="orange">PLAN</span> THE SHOOT <br> AND FORMATS</div>
+    </div>
+    <div class="text_box">
+        <div class="text">EDITING, RETOUCHING <br>&  <span class="orange">DELIVERY</span></div>
+    </div>
+    <div class="text_box">
+        <div class="text">SHARE YOUR BRAND<br>AND  <span class="orange">REQUIREMENT</span></div>
+    </div>
+    <div class="text_box">
+        <div class="text">CONTENT <span class="orange">READY TO</span><br><span class="orange">POST</span> AND PERFORM </div>
+        <div class="right_txt">SIMPLE, SMOOTH & <br>PROFESSIONAL</div>
+    </div>
+</section>
+
 </div>
 <!-- main -->
+
+<footer>
+    <div class="contain_90">
+        <div class="inner_container">
+            
+            <div class="logo_box">
+                <img src="images/logo-black.png">
+            </div>
+            <div class="right_pane">
+                <div class="upper_sec">
+                    <div class="info_box">
+                        <div class="title">YFX Creations</div>
+                        <div class="sub_title">A division of Youngistan Creatives & Digital Services Pvt. Ltd.</div>
+                    </div>
+                </div>
+                <div class="lower_sec">
+                    <div class="info_box width_50">
+                        <div class="title">Websites:</div>
+                        <div class="link_text">
+                            <a href="http://www.yfxcreations.com/" target="_blank">www.yfxcreations.com</a>
+                        </div>
+                        <div class="link_text">
+                            <a href="http://www.youngistancreatives.com/yfxcreations" target="_blank">www.youngistancreatives.com/yfxcreations</a>
+                        </div>
+                    </div>
+                    <div class="info_box width_50">
+                        <div class="title">Contact:</div>
+                        <div class="link_text">
+                            <a href="tel:9820010959" target="_blank">9820010959</a>
+                        </div>
+                        <div class="link_text">
+                            <a href="mailto:wilfredf@youngistancreatives.com" target="_blank">wilfredf@youngistancreatives.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</footer>
 
 
 
