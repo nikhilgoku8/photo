@@ -115,8 +115,8 @@
                 <div class="heading">SHOWCASE YOUR BRAND.<br>FUEL YOUR GROWTH.</div>
                 <div class="line"></div>
                 <div class="sub_heading">
-                    <p>High-impact photo and video shoots crafted for brands that want to stand out on social media.</p>
-                    <p>From scroll-stopping reels to premium statics, YFX Creations helps you look better, engage faster, and grow stronger online.</p>
+                    <div>High-impact photo and video shoots crafted for brands that want to <br> stand out on social media.</div>
+                    <div>From scroll-stopping reels to premium statics, YFX Creations helps you <br> look better, engage faster, and grow stronger online.</div>
                 </div>
             </div>
             <div class="right_pane width_50">
@@ -137,14 +137,64 @@
                 <div class="heading">YOUR VISUAL GROWTH <br> PARTNER FOR SOCIAL MEDIA</div>
                 <div class="line"></div>
                 <div class="sub_heading">
-                    <p>YFX Creations is not just a shoot studio.</p>
-                    <p>We are a content partner that understands branding, platforms, and performance.</p>
-                    <p>Every shoot is planned mobile-first and delivered ready to post.</p>
+                    <div>YFX Creations is not just a shoot studio.</div>
+                    <div>We are a content partner that understands branding, platforms, and performance.</div>
+                    <div>Every shoot is planned mobile-first and delivered ready to post.</div>
                 </div>
             </div>
             <div class="right_pane width_50">
                 <div class="img_box">
-                    <img src="images/.jpg">
+                    <img src="images/section-2.png">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="section_3">
+    <div class="contain_90">
+        <div class="inner_container">
+
+            <div class="left_pane width_50">
+                <div class="heading">BACKED BY 16+ YEARS OF <br> CREATIVE EXPERTISE</div>
+                <div class="line"></div>
+                <div class="sub_heading">
+                    <div>YFX Creations is the specialised shoots and production arm of Youngistan <br>Creatives & Digital Services Pvt. Ltd.</div>
+                    <div>With over 16 years of experience in branding, strategy, and digital growth, we know <br> what it takes to turn good visuals into strong brand presence.</div>
+                </div>
+            </div>
+            <div class="right_pane width_50">
+                <div class="img_box">
+                    <img src="images/section-3.png">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="shoots_designed">
+    <div class="contain_90">
+        <div class="inner_container">
+
+            <div class="upper_sec">
+                <div class="left_pane width_60">
+                    <div class="heading">SHOOTS DESIGNED FOR <br>SOCIAL MEDIA PERFORMANCE</div>
+                    <div class="line"></div>
+                </div>
+                <div class="right_pane width_40">
+                    <div class="info_box">
+                        <div class="sub_heading">We create content that fits today’s platforms and today’s audiences.</div>
+                        <ul>
+                            <li>Reel & Short-Form Video Shoots</li>
+                            <li>Static Shoots for Social Media</li>
+                            <li>Product & Marketplace Shoots</li>
+                            <li>Food & Restaurant Photography & Videography</li>
+                            <li>Real Estate Project & Lifestyle Shoots</li>
+                            <li>Professional Editing, Retouching & Reel Transitions</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 

@@ -51,7 +51,7 @@ span{
 
 p{
 	font-family: "Raleway", sans-serif;
-	font-size: 14px;
+	font-size: clamp(12px, 1.1vw, 16px);
 	line-height: 1.4;
 	color: #fff;
 	padding: 0 0 15px 0;
@@ -175,10 +175,11 @@ section .container{
 section .contain_90{
 	display: flex;
 }
-.hero .inner_container{
+section .inner_container{
 	display: flex;
 	flex-wrap: wrap;
 	align-items: flex-end;
+	width: 100%;
 }
 .hero .inner_container .bg_image{
 	position: absolute;
@@ -189,6 +190,7 @@ section .contain_90{
 	display: flex;
     align-items: center;
     justify-content: center;
+    z-index: -1;
 }
 .hero .inner_container .bg_image .txt{
 	font-size: 40vw;
@@ -204,21 +206,32 @@ section .contain_90{
 	height: 2px;
 	z-index: -1;
 }
+.width_40{
+	width: 40%;
+}
 .width_50{
 	width: 50%;
 }
+.width_60{
+	width: 60%;
+}
 
 .heading{
-	font-size: 3vw;
+	font-size: clamp(20px, 3vw, 100px);
     color: #fff;
     padding: 0 0 2vw 0;
 }
 .sub_heading{
-	/*font-size: 3vw;
-    color: #fff;*/
+	font-size: clamp(12px, 1.1vw, 30px);
+	line-height: 1.4;
+	color: #969696;
+	font-weight: 500;
     padding: 2vw 0 0 0;
 }
 /*hero*/
+section img{
+	max-height: 90vh;
+}
 section .left_pane .sub_heading{
 	padding-bottom: 2vw;
 }
@@ -234,10 +247,64 @@ section .left_pane .sub_heading p:last-child{
 	display: flex;
 	flex-wrap: wrap;
 	align-items: flex-end;
+	width: 100%;
+}
+.section_2 .inner_container .left_pane{
+	margin: auto 0 20vh 0;
 }
 .section_2 .inner_container .left_pane .heading{
 	color: #000;
 }
 .section_2 .inner_container .left_pane .sub_heading p{
 	color: #000;
+}
+.section_2 .inner_container .right_pane{
+	margin: auto 0;
+}
+.section_3 .inner_container .left_pane{
+	margin: auto 0 10vh 0;
+}
+section.shoots_designed{
+	background: #e8eaec;
+}
+section.shoots_designed .upper_sec{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	padding: 2vw 0;
+	width: 100%;
+}
+section.shoots_designed .upper_sec .left_pane{
+	margin: 0 0 0.7vw 0;
+}
+section.shoots_designed .upper_sec .heading{
+	color: #000;
+}
+section.shoots_designed .upper_sec .line{
+	width: 58vw;
+}
+section.shoots_designed .upper_sec .right_pane .sub_heading{
+	padding: 0 0 1vw 0;
+}
+section.shoots_designed .upper_sec .right_pane .info_box ul li{
+	color: #000;
+    font-size: clamp(12px, 1.2vw, 25px);
+    font-weight: 600;
+    padding: 0 0 0.7vw 2vw;
+    position: relative;
+}
+section.shoots_designed .upper_sec .right_pane .info_box ul li::before{
+	--size: 1vw;
+	position: absolute;
+	content: '';
+	left: 0;
+	top: calc(0.2 * var(--size));
+	width: var(--size);
+	height: var(--size);
+	background: url(../images/icons/circle.png) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+section.shoots_designed .upper_sec .right_pane .info_box ul li:last-child{
+	padding-bottom: 0;
 }
