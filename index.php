@@ -44,7 +44,7 @@
 <div class="container">
     <div class="inner_container">
         <div class="logo">
-            <a href="index.php"><img src="images/logo.png" alt="" /></a>
+            <a href="./"><img src="images/logo.png" alt="" /></a>
         </div>
         <nav>
             <!-- Menu Toggle btn-->
@@ -194,6 +194,102 @@
                             <li>Real Estate Project & Lifestyle Shoots</li>
                             <li>Professional Editing, Retouching & Reel Transitions</li>
                         </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="lower_sec">
+                <div class="images_wrapper">
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/1.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/2.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/3.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/4.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/5.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/6.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="visibility">
+    <div class="contain_90">
+        <div class="inner_container">
+
+            <div class="upper_sec">
+                <div class="left_pane width_60">
+                    <div class="heading">SHOOTS DESIGNED FOR <br>SOCIAL MEDIA PERFORMANCE</div>
+                    <div class="line"></div>
+                </div>
+                <div class="right_pane width_40">
+                    <div class="info_box">
+                        <div class="sub_heading">We create content that fits today’s platforms and today’s audiences.</div>
+                        <ul>
+                            <li>Reel & Short-Form Video Shoots</li>
+                            <li>Static Shoots for Social Media</li>
+                            <li>Product & Marketplace Shoots</li>
+                            <li>Food & Restaurant Photography & Videography</li>
+                            <li>Real Estate Project & Lifestyle Shoots</li>
+                            <li>Professional Editing, Retouching & Reel Transitions</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="lower_sec">
+                <div class="images_wrapper">
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/1.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/2.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/3.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/4.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/5.png">
+                        </div>
+                    </div>
+                    <div class="img_wrapper">
+                        <div class="img_box">
+                            <img src="images/shoots-designed/6.png">
+                        </div>
                     </div>
                 </div>
             </div>

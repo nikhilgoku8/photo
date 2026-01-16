@@ -267,6 +267,9 @@ section .left_pane .sub_heading p:last-child{
 section.shoots_designed{
 	background: #e8eaec;
 }
+section.shoots_designed .inner_container{
+	align-items: unset;
+}
 section.shoots_designed .upper_sec{
 	display: flex;
 	flex-wrap: wrap;
@@ -307,4 +310,30 @@ section.shoots_designed .upper_sec .right_pane .info_box ul li::before{
 }
 section.shoots_designed .upper_sec .right_pane .info_box ul li:last-child{
 	padding-bottom: 0;
+}
+section.shoots_designed .lower_sec{
+	width: 100%;
+}
+section.shoots_designed .lower_sec .images_wrapper{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper{
+	width: 32%;
+	margin: 0 0 2%;
+}
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper .img_box{
+	position: relative;
+	padding: 60% 0 0 0;
+	overflow: hidden;
+}
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper .img_box img{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
 }
