@@ -385,7 +385,7 @@
 
 
 <!--sticky header-->
-<!-- <script src="js/classie.js" type="text/javascript"></script>
+<script src="js/classie.js" type="text/javascript"></script>
 <script>
 function init() {
 window.addEventListener('scroll', function(e){
@@ -402,7 +402,7 @@ window.addEventListener('scroll', function(e){
 });
 }
 window.onload = init();
-</script> -->
+</script>
 <script type="text/javascript" src="js/common.js"></script>
 <script src='js/jquery.easing.1.3.js'></script>
 
