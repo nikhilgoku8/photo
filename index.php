@@ -4,7 +4,7 @@
   
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-<title>HTML Framework</title>
+<title>YFX Creations</title>
 <meta name="description" content="," />
 <meta name="keywords" content="" />
 
@@ -49,7 +49,7 @@
         <nav>
             <!-- Menu Toggle btn-->
             <div class="menu-toggle">
-                <h3>Menu</h3>
+                <!-- <h3>Menu</h3> -->
                 <button type="button" id="menu-btn">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>

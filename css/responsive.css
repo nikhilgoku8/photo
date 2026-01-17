@@ -108,9 +108,9 @@ header {
 	position:relative;
 }
 header.smaller {
-	top:0;
-	height:220px;
-	background-color:#fff;
+	/*top:0;*/
+	/*height:220px;*/
+	/*background-color:#fff;*/
 }
 header .logo {
     float:left!important;
@@ -163,25 +163,28 @@ width: 100%;
   
 }
 header.smaller {
-	top:0;
+	/*top:0;
 	height:110px;
-	background-color:#fff;
+	background-color:#fff;*/
 }
 header .logo {
-float: left!important;
-    width: 37%!important;
-    position: absolute;
+	float: left!important;
+    width: 100px !important;
+    /*position: absolute;
     left: 20px;
-    top: 14px!important;
+    top: 14px!important;*/
     z-index: 999;
-	}
+}
 header nav {
     display:inline-block;
     float:right;
-    padding:2% 2% 0 0;
+    padding: 0;
     width:100%;
     margin-top: 0%;
-	}
+}
+.menu-toggle .icon-bar{
+	background: #fff;
+}
 header.smaller .logo {
 	width:60%;
 	text-align:center;
