@@ -477,7 +477,7 @@ footer .inner_container .logo_box img{
 footer .inner_container .title{
 	font-weight: 600;
 	color: var(--orange);
-	font-size: clamp(15px, 1.2vw, 40px);
+	font-size: clamp(18px, 1.2vw, 40px);
 	padding: 0 0 0.2vw;
 }
 footer .inner_container .link_text a{
@@ -492,7 +492,7 @@ footer .inner_container .sub_title{
 	font-weight: 500;
 }
 footer .inner_container .right_pane{
-	width: 55%;
+	width: 65%;
 	display: flex;
 	flex-direction: column;
 }
