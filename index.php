@@ -201,17 +201,17 @@
                 <div class="images_wrapper">
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/1.png">
+                            <img src="images/shoots-designed/1.jpeg">
                         </div>
                     </div>
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/2.png">
+                            <img src="images/shoots-designed/2.jpeg">
                         </div>
                     </div>
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/3.png">
+                            <img src="images/shoots-designed/3.jpeg">
                         </div>
                     </div>
                     <div class="img_wrapper">

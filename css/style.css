@@ -341,6 +341,11 @@ section.shoots_designed .lower_sec .images_wrapper .img_wrapper .img_box img{
 	height: 100%;
 	object-fit: cover;
 	object-position: center;
+	filter: grayscale(1);
+	transition: all 0.3s;
+}
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper .img_box:hover img{
+	filter: grayscale(0);
 }
 
 /*visibility*/
