@@ -375,6 +375,11 @@ section.shoots_designed .lower_sec .images_wrapper .img_wrapper .img_box:hover i
 .visibility .lower_sec .info_boxes_wrapper .info_box .img_box{
 	position: relative;
 	padding: 135% 0 0 0;
+	filter: grayscale(1);
+	transition: all 0.3s;
+}
+.visibility .lower_sec .info_boxes_wrapper .info_box:hover .img_box{
+	filter: grayscale(0);
 }
 .visibility .lower_sec .info_boxes_wrapper .info_box .img_box img{
 	position: absolute;

@@ -201,32 +201,32 @@
                 <div class="images_wrapper">
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/1.jpeg">
+                            <img src="images/shoots-designed/1.jpg">
                         </div>
                     </div>
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/2.jpeg">
+                            <img src="images/shoots-designed/2.jpg">
                         </div>
                     </div>
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/3.jpeg">
+                            <img src="images/shoots-designed/3.jpg">
                         </div>
                     </div>
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/4.png">
+                            <img src="images/shoots-designed/4.jpg">
                         </div>
                     </div>
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/5.png">
+                            <img src="images/shoots-designed/5.jpg">
                         </div>
                     </div>
                     <div class="img_wrapper">
                         <div class="img_box scale-in">
-                            <img src="images/shoots-designed/6.png">
+                            <img src="images/shoots-designed/6.jpg">
                         </div>
                     </div>
                 </div>
@@ -248,7 +248,7 @@
 
                     <div class="info_box fade-in-scale-up">
                         <div class="img_box">
-                            <img src="images/visibility/1.png">
+                            <img src="images/visibility/1.jpg">
                         </div>
                         <div class="text_box">
                             <div class="title">REAL ESTATE </div>
@@ -257,7 +257,7 @@
                     </div>
                     <div class="info_box fade-in-scale-up">
                         <div class="img_box">
-                            <img src="images/visibility/2.png">
+                            <img src="images/visibility/2.jpg">
                         </div>
                         <div class="text_box">
                             <div class="title">FOOD & RESTAURANTS</div>
@@ -266,7 +266,7 @@
                     </div>
                     <div class="info_box fade-in-scale-up">
                         <div class="img_box">
-                            <img src="images/visibility/3.png">
+                            <img src="images/visibility/3.jpg">
                         </div>
                         <div class="text_box">
                             <div class="title">BRANDS & PRODUCTS</div>
@@ -275,7 +275,7 @@
                     </div>
                     <div class="info_box fade-in-scale-up">
                         <div class="img_box">
-                            <img src="images/visibility/4.png">
+                            <img src="images/visibility/4.jpg">
                         </div>
                         <div class="text_box">
                             <div class="title">DIGITAL-FIRST BUSINESSES</div>
