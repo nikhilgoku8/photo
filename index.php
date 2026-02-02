@@ -22,7 +22,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 <!---menu-->
-<link rel="stylesheet" href="css/menu-style.css" type="text/css" media="all" />
+<!-- <link rel="stylesheet" href="css/menu-style.css" type="text/css" media="all" /> -->
 
 <!-- slider -->
 <link href="owl-carousel/owl.carousel.min.css" rel="stylesheet">
@@ -197,36 +197,102 @@
                     </div>
                 </div>
             </div>
-            <div class="lower_sec">
-                <div class="images_wrapper">
-                    <div class="img_wrapper">
-                        <div class="img_box scale-in">
-                            <img src="images/shoots-designed/1.jpg">
+            <div class="lower_sec scale-in">
+                <div class="shoots_designed_slider owl-carousel owl-theme">
+                    <div class="images_wrapper">
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/1.jpg">
+                            </div>
+                        </div>
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/2.jpg">
+                            </div>
+                        </div>
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/3.jpg">
+                            </div>
+                        </div>
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/4.jpg">
+                            </div>
+                        </div>
+                        <div class="img_wrapper">
+                            <a class="img_box" href="https://www.instagram.com/reel/DORDahugtAd/?igsh=Ym0wYW53aGNucmZr" target="_blank">
+                                <img src="images/shoots-designed/5.jpg">
+                            </a>
+                        </div>
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/6.jpg">
+                            </div>
                         </div>
                     </div>
-                    <div class="img_wrapper">
-                        <div class="img_box scale-in">
-                            <img src="images/shoots-designed/2.jpg">
+                    <div class="images_wrapper">
+                        <div class="img_wrapper">
+                            <a class="img_box" href="https://www.instagram.com/p/DLkjSqqTnwc/?img_index=2&igsh=dXg2eWF4eXd0OWV0" target="_blank">
+                                <img src="images/shoots-designed/7.jpg">
+                            </a>
+                        </div>
+                        <div class="img_wrapper">
+                            <a class="img_box" href="https://www.instagram.com/reel/DRUjZ0UiEKV/?igsh=bDBuNDVxOGs1ZHVw" target="_blank">
+                                <img src="images/shoots-designed/8.jpg">
+                            </a>
+                        </div>
+                        <div class="img_wrapper">
+                            <a class="img_box" href="https://www.instagram.com/reel/DGQdvxXMHvq/?igsh=Y2U1NWJmNDB5eWRm" target="_blank">
+                                <img src="images/shoots-designed/9.jpg">
+                            </a>
+                        </div>
+                        <div class="img_wrapper">
+                            <a class="img_box" href="https://www.instagram.com/reel/DIbe91lqGH8/?igsh=MTBoOWg0MDlpbmZiOQ%3D%3D" target="_blank">
+                                <img src="images/shoots-designed/10.jpg">
+                            </a>
+                        </div>
+                        <div class="img_wrapper">
+                            <a class="img_box" href="https://www.instagram.com/reel/DG28VEKOvn7/?igsh=MTl3azMyeXRwZjh2ZQ%3D%3D" target="_blank">
+                                <img src="images/shoots-designed/11.jpg">
+                            </a>
+                        </div>
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/1.jpg">
+                            </div>
                         </div>
                     </div>
-                    <div class="img_wrapper">
-                        <div class="img_box scale-in">
-                            <img src="images/shoots-designed/3.jpg">
+                    <div class="images_wrapper">
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/12.jpg">
+                            </div>
                         </div>
-                    </div>
-                    <div class="img_wrapper">
-                        <div class="img_box scale-in">
-                            <img src="images/shoots-designed/4.jpg">
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/13.jpg">
+                            </div>
                         </div>
-                    </div>
-                    <div class="img_wrapper">
-                        <div class="img_box scale-in">
-                            <img src="images/shoots-designed/5.jpg">
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/14.jpg">
+                            </div>
                         </div>
-                    </div>
-                    <div class="img_wrapper">
-                        <div class="img_box scale-in">
-                            <img src="images/shoots-designed/6.jpg">
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/15.jpg">
+                            </div>
+                        </div>
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/16.jpg">
+                            </div>
+                        </div>
+                        <div class="img_wrapper">
+                            <div class="img_box">
+                                <img src="images/shoots-designed/17.jpg">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -369,7 +435,8 @@
                     <div class="info_box width_50">
                         <div class="title scale-in">Contact:</div>
                         <div class="link_text scale-in">
-                            <a href="tel:9820010959" target="_blank">9820010959</a>
+                            <a href="tel:+919820010959" target="_blank">9820010959</a> /
+                            <a href="tel:+919920691623" target="_blank">9920691623</a>
                         </div>
                         <div class="link_text scale-in">
                             <a href="mailto:wilfredf@youngistancreatives.com" target="_blank">wilfredf@youngistancreatives.com</a>

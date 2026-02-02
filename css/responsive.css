@@ -357,6 +357,41 @@ footer .inner_container .right_pane .lower_sec .info_box:nth-child(2){
 	padding: 5vw 0;
 }
 
+.owl-carousel.owl-theme .owl-nav button{
+	position: absolute;
+	top: calc(50% - 15px);
+	margin: 0;
+	width: 25px;
+	height: 25px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/*color: var(--blue);*/
+}
+.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover{
+	color: var(--blue);
+	background: unset;
+}
+.owl-carousel.owl-theme .owl-nav button.owl-prev{
+	left: -22px;
+}
+.owl-carousel.owl-theme .owl-nav button.owl-next{
+	right: -22px;
+}
+.owl-carousel.owl-theme .owl-nav button span{
+	font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
 }
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {

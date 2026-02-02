@@ -328,10 +328,33 @@ section.shoots_designed .lower_sec .images_wrapper .img_wrapper{
 	width: 32%;
 	margin: 0 0 2%;
 }
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper:nth-child(4){
+	margin: 0;
+}
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper:nth-child(5){
+	margin: 0;
+}
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper:nth-child(6){
+	margin: 0;
+}
 section.shoots_designed .lower_sec .images_wrapper .img_wrapper .img_box{
 	position: relative;
 	padding: 60% 0 0 0;
 	overflow: hidden;
+	display: block;
+}
+section.shoots_designed .lower_sec .images_wrapper .img_wrapper a.img_box::before{
+	--size: 30px;
+	position: absolute;
+	content: '';
+	top: calc(50% - (var(--size) / 2));
+	left: calc(50% - (var(--size) / 2));
+	width: var(--size);
+	height: var(--size);
+	background: url(../images/icons/reel-play.png) no-repeat;
+	z-index: 1;
+	background-position: center;
+	background-size: contain;
 }
 section.shoots_designed .lower_sec .images_wrapper .img_wrapper .img_box img{
 	position: absolute;
@@ -520,4 +543,55 @@ footer .inner_container .right_pane .lower_sec .info_box:first-child{
 }
 footer .inner_container .right_pane .lower_sec .info_box:nth-child(2){
 	padding: 0 0 0 2vw;
+}
+
+
+/*owl carousel arrows*/
+
+.owl-carousel.owl-theme .owl-nav{
+	margin: 0;
+}
+.owl-carousel.owl-theme .owl-nav button{
+	position: absolute;
+	top: calc(50% - 20px);
+	margin: 0;
+	width: 40px;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/*color: var(--blue);*/
+}
+.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover{
+	color: var(--blue);
+	background: unset;
+}
+.owl-carousel.owl-theme .owl-nav button.owl-prev{
+	left: -40px;
+}
+.owl-carousel.owl-theme .owl-nav button.owl-next{
+	right: -40px;
+}
+.owl-carousel.owl-theme .owl-nav button span{
+	font-size: 50px;
+    line-height: 0.4em;
+    padding: 0 0 0.23em 0;
+    font-family: 'Font Awesome 7 Free';
+    /*color: #ffff;
+    border: 1px solid #00eaff;
+    background: #000;*/
+}
+
+.owl-carousel.owl-theme .owl-dots .owl-dot span{
+	background: unset;
+    box-shadow: inset 0 0 0 1px var(--greenish-blue);
+    outline: 1px solid var(--greenish-blue);
+    outline-offset: -1px;
+    width: 12px;
+    height: 12px;
+    transition: all 0.2s;
+}
+.owl-carousel.owl-theme .owl-dots .owl-dot.active span{
+    box-shadow: inset 0 0 0 6px var(--greenish-blue);
+    outline-offset: 3px;
 }
