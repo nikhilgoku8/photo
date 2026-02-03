@@ -59,20 +59,14 @@
             <!-- Responsive Menu Structure-->
             <!--Note: declare the Menu style in the data-menu-style="horizontal" (options: horizontal, vertical, accordion) -->
             <ul id="respMenu" class="ace-responsive-menu" data-menu-style="horizontal">
-                <li>
-                    <a href="./">
-                        <span class="title">Home</span>
-                        <!-- <span class="arrow"></span>  -->
-                    </a>
-                    <!-- <ul>
-                        <li><a href="#">Lorem Ipsum 1</a></li>
-                    </ul> -->
-                </li>
-                <li>
-                    <a href="#">
-                        <span class="title">Intro</span>
-                    </a>
-                </li>
+                <li><a href="./">Home</a></li>
+                <li><a href="#intro">Intro</a></li>
+                <li><a href="#who-we-are">Who we are</a></li>
+                <li><a href="#what-we-shoot">What we shoot</a></li>
+                <li><a href="#our-categories">Our categories</a></li>
+                <li><a href="#why-us">Why us</a></li>
+                <li><a href="#how-it-works">How it works</a></li>
+                <li><a href="#contact-us">Contact us</a></li>
             </ul>
         </nav>
     </div>
@@ -130,6 +124,7 @@
 </section>
 
 <section class="section_2">
+    <span class="section_link" id="intro"></span>
     <div class="contain_90">
         <div class="inner_container">
 
@@ -153,6 +148,7 @@
 </section>
 
 <section class="section_3">
+    <span class="section_link" id="who-we-are"></span>
     <div class="contain_90">
         <div class="inner_container">
 
@@ -175,6 +171,7 @@
 </section>
 
 <section class="shoots_designed">
+    <span class="section_link" id="what-we-shoot"></span>
     <div class="contain_90">
         <div class="inner_container">
 
@@ -303,6 +300,7 @@
 </section>
 
 <section class="visibility">
+    <span class="section_link" id="our-categories"></span>
     <div class="contain_90">
         <div class="inner_container">
 
@@ -357,6 +355,7 @@
 </section>
 
 <section class="good_content">
+    <span class="section_link" id="why-us"></span>
     <div class="contain_90">
         <div class="inner_container">
 
@@ -387,6 +386,7 @@
 <!-- good_content -->
 
 <section class="lot_of_text">
+    <span class="section_link" id="how-it-works"></span>
     <div class="text_box fade-in-left">
         <div class="text">OUR TEAM EXECUTES <br><span class="orange">PROFESSIONALLY</span></div>
     </div>
@@ -409,6 +409,7 @@
 <!-- main -->
 
 <footer>
+    <span class="section_link" id="contact-us"></span>
     <div class="contain_90">
         <div class="inner_container">
             

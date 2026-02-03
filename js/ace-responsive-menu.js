@@ -93,6 +93,8 @@ Website: www.webthemez.com
             $aceMenu.on('click', '> li a', function () {
                 if ($aceMenu.hasClass('collapse') === false) {
                     //return false;
+                }else{
+                    $aceMenu.slideToggle().toggleClass('hide-menu');
                 }
                 $(this).off('mouseover', '> li a');
                 if ($(this).parent().hasClass('menu-active')) {
