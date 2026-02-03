@@ -60,8 +60,8 @@
             <!--Note: declare the Menu style in the data-menu-style="horizontal" (options: horizontal, vertical, accordion) -->
             <ul id="respMenu" class="ace-responsive-menu" data-menu-style="horizontal">
                 <li>
-                    <a>
-                        <span class="title">About</span>
+                    <a href="./">
+                        <span class="title">Home</span>
                         <!-- <span class="arrow"></span>  -->
                     </a>
                     <!-- <ul>
@@ -70,7 +70,7 @@
                 </li>
                 <li>
                     <a href="#">
-                        <span class="title">Lorem Ipsum 2</span>
+                        <span class="title">Intro</span>
                     </a>
                 </li>
             </ul>
